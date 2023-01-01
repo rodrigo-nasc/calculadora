@@ -91,6 +91,7 @@ body {
     text-align: right;
     border: 2px solid;
     border-color: var(--border-color);
+    font-weight: bold;
 }
 
 .theme {
