@@ -21,7 +21,7 @@ body {
 }
 
 .calculadora {
-    width: 60%;
+    width: 70%;
     margin: 2rem auto;
 }
 
@@ -129,3 +129,9 @@ body {
 .error {
     background-color: var(--error-color);
 }
+
+@media (max-width: 600px) {
+    .calculadora {
+        width: 95%;
+    }
+} ;
